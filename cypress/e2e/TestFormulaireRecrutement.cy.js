@@ -1,4 +1,7 @@
 describe('testFormulaireRecrutement', () => {
+
+  let user = require('../fixtures/userData')
+  
   beforeEach( () => {
     
     cy.timeout(7000);
@@ -13,26 +16,26 @@ describe('testFormulaireRecrutement', () => {
   })
     it('EmailValide', () => {
       
-      cy.get('[placeholder="email"]').type('jo@gmail.com').should('have.css', 'border-color',  'rgb(36, 87, 181)');
+      cy.get('[placeholder="email"]').type(user.email).should('have.css', 'border-color',  'rgb(36, 87, 181)');
       
     })
 
     it('EmailNonValide', () => {
 
-      cy.get('[placeholder="email"]').type('jo')
+      cy.get('[placeholder="email"]').type(user.emailnonValide)
       cy.get('.ant-form-explain').should("have.text", "votre email n'est pas valide!");
     
     })
 
     it('TelValide', () => {
 
-      cy.get('#form_candidature_tel').type('0623456789').should('have.css', 'border-color',  'rgb(36, 87, 181)');
+      cy.get('#form_candidature_tel').type(user.tel).should('have.css', 'border-color',  'rgb(36, 87, 181)');
 
     })
 
     it('TelNonValide', () => {
 
-      cy.get('#form_candidature_tel').type('06');
+      cy.get('#form_candidature_tel').type(user.telnonValide);
       cy.get('.ant-form-explain').should("have.text", "le numéro n'est pas valide");
       cy.get('#form_candidature_tel').clear();
       cy.get('.ant-form-explain').should("have.text", "Entrer votre nom svp!");
