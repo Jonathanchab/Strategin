@@ -1,0 +1,23 @@
+﻿Parent Requirement Key;Parent Requirement Summary;Requirement Key;Requirement Summary;Requirement Status;Test Key;Test Summary;Test Status;Test Execution Key;TestRun Status;Test Environments;Executed By;Version;Revision;Started On;Finished On;Defect Keys
+;;SI-31;Test exploratoire Footer du site Strateg.in;OK;SI-32;Mentions légales;PASSED;SI-44;PASSED;Prod;jonathanchab;;;2024-10-30T12:24:38.300Z;2024-10-30T12:24:38.300Z;
+;;SI-31;Test exploratoire Footer du site Strateg.in;OK;SI-33;Envoyer un mail;PASSED;SI-44;PASSED;Prod;jonathanchab;;;2024-10-30T12:24:41.506Z;2024-10-30T12:24:41.506Z;
+;;SI-31;Test exploratoire Footer du site Strateg.in;OK;SI-34;Appeler;PASSED;SI-44;PASSED;Prod;jonathanchab;;;2024-10-30T12:24:45.599Z;2024-10-30T12:24:45.599Z;
+;;SI-31;Test exploratoire Footer du site Strateg.in;OK;SI-35;Redirection vers Linkedin;PASSED;SI-44;PASSED;Prod;jonathanchab;;;2024-10-30T12:24:49.920Z;2024-10-30T12:24:49.920Z;
+;;SI-31;Test exploratoire Footer du site Strateg.in;OK;SI-39;Redirection vers Facebook;PASSED;SI-44;PASSED;Prod;jonathanchab;;;2024-10-30T12:24:53.708Z;2024-10-30T12:24:53.708Z;
+;;SI-20;Test exploratoire Formulaire (Contactez-nous, Recrutement);OK;SI-21;Mail valide (Contactez-nous);PASSED;SI-45;PASSED;Prod;jonathanchab;;;2024-10-30T12:26:04.628Z;2024-10-30T12:26:04.628Z;
+;;SI-20;Test exploratoire Formulaire (Contactez-nous, Recrutement);OK;SI-22;Mail non valide (Contactez-nous);PASSED;SI-45;PASSED;Prod;jonathanchab;;;2024-10-30T12:26:07.646Z;2024-10-30T12:26:07.646Z;
+;;SI-20;Test exploratoire Formulaire (Contactez-nous, Recrutement);OK;SI-23;Téléphone Valide (Contactez-nous);PASSED;SI-45;PASSED;Prod;jonathanchab;;;2024-10-30T12:26:11.518Z;2024-10-30T12:26:11.518Z;
+;;SI-20;Test exploratoire Formulaire (Contactez-nous, Recrutement);OK;SI-24;Téléphone non valide (Contactez-nous);PASSED;SI-45;PASSED;Prod;jonathanchab;;;2024-10-30T12:26:15.084Z;2024-10-30T12:26:15.084Z;
+;;SI-20;Test exploratoire Formulaire (Contactez-nous, Recrutement);OK;SI-25;Email valide (Recrutement);PASSED;SI-45;PASSED;Prod;jonathanchab;;;2024-10-30T12:26:18.371Z;2024-10-30T12:26:18.371Z;
+;;SI-20;Test exploratoire Formulaire (Contactez-nous, Recrutement);OK;SI-26;Téléphone non valide (Recrutement);PASSED;SI-45;PASSED;Prod;jonathanchab;;;2024-10-30T12:26:22.085Z;2024-10-30T12:26:22.085Z;
+;;SI-20;Test exploratoire Formulaire (Contactez-nous, Recrutement);OK;SI-29;Téléphone valide (Recrutement);PASSED;SI-45;PASSED;Prod;jonathanchab;;;2024-10-30T12:26:25.459Z;2024-10-30T12:26:25.459Z;
+;;SI-20;Test exploratoire Formulaire (Contactez-nous, Recrutement);OK;SI-30;Email non valide (Recrutement);PASSED;SI-45;PASSED;Prod;jonathanchab;;;2024-10-30T12:26:29.301Z;2024-10-30T12:26:29.301Z;
+;;SI-20;Test exploratoire Formulaire (Contactez-nous, Recrutement);OK;SI-38;Menu déroulant(Recrutement);PASSED;SI-45;PASSED;Prod;jonathanchab;;;2024-10-30T12:26:32.483Z;2024-10-30T12:26:32.483Z;
+;;SI-2;Test exploratoire Header du site Strateg-in;OK;SI-9;"Logo ""Strateg.in""";PASSED;SI-47;PASSED;Prod;jonathanchab;;;2024-10-31T14:57:30.102Z;2024-10-31T14:57:30.102Z;
+;;SI-2;Test exploratoire Header du site Strateg-in;OK;SI-10;"Onglet ""Acceuil""";PASSED;SI-47;PASSED;Prod;jonathanchab;;;2024-10-31T14:57:30.089Z;2024-10-31T14:57:30.089Z;
+;;SI-2;Test exploratoire Header du site Strateg-in;OK;SI-11;"Onglet ""Offres""";PASSED;SI-47;PASSED;Prod;jonathanchab;;;2024-10-31T14:57:30.095Z;2024-10-31T14:57:30.095Z;
+;;SI-2;Test exploratoire Header du site Strateg-in;OK;SI-12;"Onglet ""Equipes & Partenaire""";PASSED;SI-47;PASSED;Prod;jonathanchab;;;2024-10-31T14:57:30.093Z;2024-10-31T14:57:30.093Z;
+;;SI-2;Test exploratoire Header du site Strateg-in;OK;SI-13;"Onglet ""Recrutement""";PASSED;SI-47;PASSED;Prod;jonathanchab;;;2024-10-31T14:57:30.092Z;2024-10-31T14:57:30.092Z;
+;;SI-2;Test exploratoire Header du site Strateg-in;OK;SI-14;"Onglet ""Actualités""";PASSED;SI-47;PASSED;Prod;jonathanchab;;;2024-10-31T14:57:30.097Z;2024-10-31T14:57:30.097Z;
+;;SI-2;Test exploratoire Header du site Strateg-in;OK;SI-15;"Onglet ""Contactez-nous""";PASSED;SI-47;PASSED;Prod;jonathanchab;;;2024-10-31T14:57:30.100Z;2024-10-31T14:57:30.100Z;
+;;SI-1;Accéder au site Strateg-in;OK;SI-6;Accéder au site Strategin;PASSED;SI-41;PASSED;Prod;jonathanchab;;;2024-10-30T11:48:36.829Z;2024-10-30T11:48:36.829Z;
